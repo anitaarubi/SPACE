@@ -8,6 +8,8 @@ Introduction
 
 The vast expanse of outer space, once thought to be an endless void, is now becoming cluttered with man-made debris. Space debris, also known as orbital debris or space junk, refers to defunct satellites, spent rocket stages, and fragments from collisions that orbit the Earth. As the number of satellites and space missions continues to rise, so does the concern surrounding the impact of space debris on critical assets, such as the International Space Station (ISS).
 
+[add image1.png]
+
 The Growing Threat of Space Debris
 
 The issue of space debris is a consequence of decades of space exploration and satellite launches. There are currently millions of pieces of space debris orbiting Earth, ranging in size from tiny paint flecks to defunct satellites. These objects travel at incredibly high speeds, posing a significant threat to operational satellites, spacecraft, and space stations.
