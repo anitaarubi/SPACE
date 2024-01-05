@@ -196,7 +196,7 @@ def save_apod_to_file(apod_info):
 
         # define name for image file
         file_prefix = datetime.datetime.now().strftime("%Y_%m_%d")
-        file_suffix = apod_info["title"].replace(" ", "_")
+        file_suffix = apod_info["title"].replace(" ", "_").replace(":", "_")
         filename = file_prefix + "_" + file_suffix + ".jpg"
 
         # get image content, and save to file
