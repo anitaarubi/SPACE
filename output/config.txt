@@ -1,0 +1,14 @@
+# Warning: DO NOT DELETE FILE OR ITS CONTENT!
+# This text file serves as a guide to the automation program. It keeps count of the number of automation processes done.
+# A completed task is represented by a "|-"; I call it a "pipe-dash" character.
+# For example: "|-|-|-|-|-|-|-" tells the automation program that a successful record has been done for seven iterations.
+# After a successful automation iteration, the number of "pipe-dash" character gets incremented by 1.
+# That is, for instance, it gets updated from "|-|-|-|-|-|-|-" to  "|-|-|-|-|-|-|-|-".
+# The next line keeps count of the number of days the automation has kept track of.
+# The last line in the file represent the date which the last operation was run.
+
+<<<|-|-|->>>
+
+<<<1>>>
+
+<<<05 January 2024>>>

@@ -1,0 +1,63 @@
+======================================================================
+Timestamp: Friday, 05 January 2024 15:07:56
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (39.437117912468, 129.63896975611)
+	- altitude: 418.5422771317 km above ground level
+	- velocity: 27597.106588045 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (41.284554531484005, 133.23478835687612)
+	- velocity: 28360.448038246515 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Trapezium: At the Heart of Orion!
+
+======================================================================
+Timestamp: Friday, 05 January 2024 15:08:29
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (40.693605355021, 131.75259249869)
+	- altitude: 418.8819797656 km above ground level
+	- velocity: 27596.749038351 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (43.90229900144188, 133.43468601166202)
+	- velocity: 30470.569347134708 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Trapezium: At the Heart of Orion!
+
+======================================================================
+Timestamp: Friday, 05 January 2024 15:15:25
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (51.246695361242, 166.05085526264)
+	- altitude: 422.27423610945 km above ground level
+	- velocity: 27591.638184481 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (55.69313049591445, 167.180158718806)
+	- velocity: 28534.621369774395 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Trapezium: At the Heart of Orion!
+
