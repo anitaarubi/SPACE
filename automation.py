@@ -53,13 +53,15 @@ def get_config_status():
 
     # extract useful info
     try:
+        # get count of the automation runs
+        important_line_0 = lines[0].strip().count("|-")
         # get day of last successful automation run
         important_line_1 = int(lines[1].strip()[3:-3])
         # get date of last successful automation run
         important_line_2 = lines[2].strip()[3:-3]
     except: pass
 
-    return list((important_line_1, important_line_2))
+    return list((important_line_1, important_line_2, important_line_0))
 
 # get number of people on ISS
 def people_on_ISS():
@@ -196,7 +198,7 @@ def save_apod_to_file(apod_info):
 
         # define name for image file
         file_prefix = datetime.datetime.now().strftime("%Y_%m_%d")
-        file_suffix = apod_info["title"].replace(" ", "_").replace(":", "_")
+        file_suffix = apod_info["title"].replace(" ", "_").replace(":","_")
         filename = file_prefix + "_" + file_suffix + ".jpg"
 
         # get image content, and save to file
@@ -292,6 +294,7 @@ def go():
 
         # update images_json file, if current date IS NOT last saved date
         curr_date = datetime.datetime.now().strftime("%d %B %Y")
+        if from_config[-1] == 0: update_image_json_file(apod_info)
         if curr_date != from_config[1]: update_image_json_file(apod_info)
 
         # save image into location, return to base path

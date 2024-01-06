@@ -1,63 +1,63 @@
 ======================================================================
-Timestamp: Friday, 05 January 2024 15:07:56
+Timestamp: Friday, 05 January 2024 15:42:58
 
 
 Hello,
 
 the ISS, containing 7 persons, has the following information:
-	- latitude, longitude: (39.437117912468, 129.63896975611)
-	- altitude: 418.5422771317 km above ground level
-	- velocity: 27597.106588045 km/h
+	- latitude, longitude: (-7.7098227391839, -93.485436669069)
+	- altitude: 420.74546098548 km above ground level
+	- velocity: 27569.953013099 km/h
 	- region directly over: Not a country.
 
 ...and the nearest object has the following information:
 	- type: Meteor
-	- latitude, longitude: (41.284554531484005, 133.23478835687612)
-	- velocity: 28360.448038246515 km/h
+	- latitude, longitude: (-5.647310167520445, -88.63784577506668)
+	- velocity: 29711.43398503338 km/h
 	- object in proximity: True
 	- action: Steer horizontally!
 
 Astronomical Picture of the Day (APOD): Trapezium: At the Heart of Orion!
 
 ======================================================================
-Timestamp: Friday, 05 January 2024 15:08:29
+Timestamp: Saturday, 06 January 2024 16:29:02
 
 
 Hello,
 
 the ISS, containing 7 persons, has the following information:
-	- latitude, longitude: (40.693605355021, 131.75259249869)
-	- altitude: 418.8819797656 km above ground level
-	- velocity: 27596.749038351 km/h
+	- latitude, longitude: (-9.831262442902, -109.41278060875)
+	- altitude: 421.1901673629 km above ground level
+	- velocity: 27568.51477924 km/h
 	- region directly over: Not a country.
 
 ...and the nearest object has the following information:
 	- type: Meteor
-	- latitude, longitude: (43.90229900144188, 133.43468601166202)
-	- velocity: 30470.569347134708 km/h
-	- object in proximity: True
-	- action: Steer vertically!
+	- latitude, longitude: (-6.196071433589292, -105.46964152499783)
+	- velocity: 31582.559938281494 km/h
+	- object in proximity: False
+	- action: Do nothing.
 
-Astronomical Picture of the Day (APOD): Trapezium: At the Heart of Orion!
+Astronomical Picture of the Day (APOD): The Snows of Churyumov-Gerasimenko!
 
 ======================================================================
-Timestamp: Friday, 05 January 2024 15:15:25
+Timestamp: Saturday, 06 January 2024 22:52:12
 
 
 Hello,
 
 the ISS, containing 7 persons, has the following information:
-	- latitude, longitude: (51.246695361242, 166.05085526264)
-	- altitude: 422.27423610945 km above ground level
-	- velocity: 27591.638184481 km/h
+	- latitude, longitude: (-42.054003851827, -169.39667008576)
+	- altitude: 431.44447090191 km above ground level
+	- velocity: 27546.671925135 km/h
 	- region directly over: Not a country.
 
 ...and the nearest object has the following information:
 	- type: Satellite
-	- latitude, longitude: (55.69313049591445, 167.180158718806)
-	- velocity: 28534.621369774395 km/h
+	- latitude, longitude: (-40.56346138484037, -167.49124611435565)
+	- velocity: 27637.526126027664 km/h
 	- object in proximity: True
-	- action: Steer vertically!
+	- action: Steer horizontally!
 
-Astronomical Picture of the Day (APOD): Trapezium: At the Heart of Orion!
+Astronomical Picture of the Day (APOD): The Snows of Churyumov-Gerasimenko!
 
