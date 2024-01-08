@@ -61,3 +61,87 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): The Snows of Churyumov-Gerasimenko!
 
+======================================================================
+Timestamp: Monday, 08 January 2024 11:08:37
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (29.243481994984, 158.43732743422)
+	- altitude: 415.31823285477 km above ground level
+	- velocity: 27601.764343188 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (33.40174402788758, 161.9282391519589)
+	- velocity: 28648.765745170593 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): The Phases of Venus!
+
+======================================================================
+Timestamp: Monday, 08 January 2024 13:21:44
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-11.557004034759, -72.273843168733)
+	- altitude: 421.57712714253 km above ground level
+	- velocity: 27566.959408519 km/h
+	- region directly over: Madre de Dios, Perú
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-7.885597774602777, -69.15633863378005)
+	- velocity: 30787.771736600796 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): The Phases of Venus!
+
+======================================================================
+Timestamp: Monday, 08 January 2024 17:01:24
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-25.904596722872, 20.172130584507)
+	- altitude: 422.5240536804 km above ground level
+	- velocity: 27570.352537367 km/h
+	- region directly over: Northern Cape, South Africa
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-25.521964095354278, 22.796753188974797)
+	- velocity: 28638.49710490513 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): The Phases of Venus!
+
+======================================================================
+Timestamp: Monday, 08 January 2024 21:44:40
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-11.952315620742, -38.928582817468)
+	- altitude: 417.71068259439 km above ground level
+	- velocity: 27582.864255532 km/h
+	- region directly over: Bahia, Brasil
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-7.7298954282521155, -34.71365014029281)
+	- velocity: 29672.658042794978 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): The Phases of Venus!
+
