@@ -145,3 +145,66 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): The Phases of Venus!
 
+======================================================================
+Timestamp: Tuesday, 09 January 2024 13:40:08
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (51.797856732128, 178.32381935433)
+	- altitude: 421.4075903478 km above ground level
+	- velocity: 27594.876326469 km/h
+	- region directly over: Alaska, United States
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (56.390816829646084, 179.47788599269205)
+	- velocity: 30402.52659477951 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Thor's Helmet!
+
+======================================================================
+Timestamp: Tuesday, 09 January 2024 17:53:10
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-6.8141408947671, 18.146520608743)
+	- altitude: 415.64664722863 km above ground level
+	- velocity: 27589.83739067 km/h
+	- region directly over: Kwango, République démocratique du Congo
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-4.38325476191701, 20.368207644355174)
+	- velocity: 31160.835601011775 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Thor's Helmet!
+
+======================================================================
+Timestamp: Tuesday, 09 January 2024 21:07:36
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (19.773213804606, -9.4335067394447)
+	- altitude: 413.87388398533 km above ground level
+	- velocity: 27601.757671318 km/h
+	- region directly over: أدرار, موريتانيا
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (23.483064492265978, -5.49096271932639)
+	- velocity: 28609.367520383927 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): Thor's Helmet!
+
