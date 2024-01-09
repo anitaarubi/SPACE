@@ -157,7 +157,7 @@ Overall, the code is a script for automating the retrieval and processing of inf
 
 
 
-# Week 1; 18th Dec.: Unveiling the Wonders of Space Automation
+# Week 1; 5th Jan.: Unveiling the Wonders of Space Automation
 Welcome back, cosmic explorers!
 This week, our Python-powered space automation journey kicks off with an exploration of the vast universe. Buckle up as we delve into the intricacies of data fetching, processing, and the magic of the cosmos.
 
