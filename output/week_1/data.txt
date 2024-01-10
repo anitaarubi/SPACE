@@ -208,3 +208,66 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Thor's Helmet!
 
+======================================================================
+Timestamp: Wednesday, 10 January 2024 14:00:31
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-5.0741938751291, 72.714884749926)
+	- altitude: 415.2612754518 km above ground level
+	- velocity: 27590.976143538 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-4.238795895711061, 73.6046219768825)
+	- velocity: 30868.793299525754 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): The Light, the Dark, and the Dusty!
+
+======================================================================
+Timestamp: Wednesday, 10 January 2024 18:38:00
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-8.1117740577914, -0.23268779970884)
+	- altitude: 415.90725625941 km above ground level
+	- velocity: 27588.872247233 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-6.806312861503544, 2.2178874496976846)
+	- velocity: 29026.485973400253 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): The Light, the Dark, and the Dusty!
+
+======================================================================
+Timestamp: Wednesday, 10 January 2024 23:32:26
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (38.143987978114, -30.445101459891)
+	- altitude: 416.80627420792 km above ground level
+	- velocity: 27602.276035812 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (40.842720417808664, -30.315074718123793)
+	- velocity: 30325.085542357898 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): The Light, the Dark, and the Dusty!
+
