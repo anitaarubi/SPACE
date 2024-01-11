@@ -271,3 +271,45 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): The Light, the Dark, and the Dusty!
 
+======================================================================
+Timestamp: Thursday, 11 January 2024 12:18:42
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (27.896766043762, -107.97203289737)
+	- altitude: 418.56686769443 km above ground level
+	- velocity: 27587.358473997 km/h
+	- region directly over: Chihuahua, México
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (28.178474281506293, -104.53951009649754)
+	- velocity: 31459.29230019734 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Quadrantids of the North!
+
+======================================================================
+Timestamp: Thursday, 11 January 2024 20:19:22
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-21.395088576576, 172.46927005209)
+	- altitude: 424.41726354501 km above ground level
+	- velocity: 27559.472946215 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (-17.239657399901173, 173.00309541835728)
+	- velocity: 32303.094391521325 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Quadrantids of the North!
+
