@@ -3,7 +3,7 @@
 Thousands of pieces of space debris, also known as space junk, are orbiting Earth — posing a significant threat to satellites, spacecraft and astronauts.
 
 
-![IMAGE 1.webp](:/e61d2cbdf3014d77b7b9d90c1f247def)
+![Debris.webp](https://cdn.mos.cms.futurecdn.net/K6b7VvXYjcFZAHdBjEfh4i-650-80.jpg.webp)
 An illustration of space junk
 An illustration of space junk, or space debris (Image credit: Shutterstock)
 There's a floating garbage dump orbiting Earth, and it's getting fuller every year. 
@@ -19,7 +19,7 @@ Space junk refers to any human-made debris left in orbit around Earth. This incl
 Space debris around the Earth
 
 
-![IMAGE 2.jpeg](:/7cf4f4cf2c5d4863a8a45f9d8118ee64)
+![Debris 2.jpeg](https://static.nationalgeographic.co.uk/files/styles/image_3200/public/01-debris_objects_-_mostly_debris_-_in_low_earth_orbit_leo_-_view_over_the_equator.webp?w=1450&h=816)
 An illustration of space junk, or space debris, around Earth. (Image credit: NASA)
 
 ### How much space junk is there right now?
