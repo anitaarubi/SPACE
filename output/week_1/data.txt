@@ -313,3 +313,45 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Quadrantids of the North!
 
+======================================================================
+Timestamp: Friday, 12 January 2024 10:43:56
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-30.20719523587, 87.533956152382)
+	- altitude: 423.92595622251 km above ground level
+	- velocity: 27567.022203927 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-29.07330882174654, 89.613409455362)
+	- velocity: 30266.16773506976 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Good Morning Moon!
+
+======================================================================
+Timestamp: Friday, 12 January 2024 21:20:55
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-51.78747046192, -135.56644820613)
+	- altitude: 435.05179353998 km above ground level
+	- velocity: 27538.901560894 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-49.06570991529732, -132.3618237194013)
+	- velocity: 32228.37584351501 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): Good Morning Moon!
+
