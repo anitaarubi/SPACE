@@ -1,0 +1,21 @@
+======================================================================
+Timestamp: Saturday, 13 January 2024 18:37:14
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-0.82910293696591, 169.23884709106)
+	- altitude: 418.98131591625 km above ground level
+	- velocity: 27574.829377286 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (-0.7407578082836088, 169.57981379716148)
+	- velocity: 29863.526407344136 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Circling the Sun!
+

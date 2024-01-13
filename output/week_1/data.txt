@@ -355,3 +355,24 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Good Morning Moon!
 
+======================================================================
+Timestamp: Saturday, 13 January 2024 14:39:36
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-16.212594859308, 35.743781087022)
+	- altitude: 418.28191867348 km above ground level
+	- velocity: 27581.2945884 km/h
+	- region directly over: Zambézia, Moçambique
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-11.670642909160776, 36.89196191330328)
+	- velocity: 28815.650388543727 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Circling the Sun!
+
