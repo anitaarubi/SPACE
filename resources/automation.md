@@ -211,7 +211,7 @@ Our cosmic journey is not just about data; it's an art form. This week, our atte
 
 ```
 # Update Image Information File
-`update_image_json_file(apod_info)`
+update_image_json_file(apod_info)
 ```
 
 **The Symphony of Cosmic Imagery**

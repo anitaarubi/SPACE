@@ -4,7 +4,7 @@ Thousands of pieces of space debris, also known as space junk, are orbiting Eart
 
 
 ![Debris.webp](https://cdn.mos.cms.futurecdn.net/K6b7VvXYjcFZAHdBjEfh4i-650-80.jpg.webp)
-An illustration of space junk
+
 An illustration of space junk, or space debris (Image credit: Shutterstock)
 There's a floating garbage dump orbiting Earth, and it's getting fuller every year. 
 
