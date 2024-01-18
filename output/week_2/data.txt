@@ -19,3 +19,171 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Circling the Sun!
 
+======================================================================
+Timestamp: Sunday, 14 January 2024 23:19:16
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (9.2044646260698, -81.677527216035)
+	- altitude: 418.04191698767 km above ground level
+	- velocity: 27585.414945815 km/h
+	- region directly over: Bocas del Toro, Panamá
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (14.18127290095395, -78.10240452256261)
+	- velocity: 28641.75733710549 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): Dragon Aurora over Iceland!
+
+======================================================================
+Timestamp: Monday, 15 January 2024 14:22:19
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-51.741060417637, -44.837402389041)
+	- altitude: 439.4893572136 km above ground level
+	- velocity: 27526.220056722 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (-50.60469350126741, -42.45979163625071)
+	- velocity: 32376.786697814547 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Star Cluster IC 348 from Webb!
+
+======================================================================
+Timestamp: Monday, 15 January 2024 23:41:44
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-50.573137265953, -173.8302912862)
+	- altitude: 439.00273278503 km above ground level
+	- velocity: 27527.144020512 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (-46.8669391268838, -173.2561948821181)
+	- velocity: 28366.130026371018 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Star Cluster IC 348 from Webb!
+
+======================================================================
+Timestamp: Tuesday, 16 January 2024 10:26:33
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-50.738076923103, -10.198625788302)
+	- altitude: 438.87673709307 km above ground level
+	- velocity: 27527.690358973 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (-49.1057563851396, -5.859499710311049)
+	- velocity: 31436.10667790358 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): The Orion You Can Almost See!
+
+======================================================================
+Timestamp: Tuesday, 16 January 2024 21:22:27
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-50.111995085286, -141.52996493516)
+	- altitude: 438.74773811109 km above ground level
+	- velocity: 27527.545269632 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (-46.181834608875214, -138.2227617847284)
+	- velocity: 30983.61749225083 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): The Orion You Can Almost See!
+
+======================================================================
+Timestamp: Tuesday, 16 January 2024 23:33:46
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (48.229323210319, -42.802922501888)
+	- altitude: 420.46579245279 km above ground level
+	- velocity: 27600.147416061 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (51.166409833754344, -38.26832948407081)
+	- velocity: 30019.765361960846 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): The Orion You Can Almost See!
+
+======================================================================
+Timestamp: Wednesday, 17 January 2024 10:28:47
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (51.794228438893, 179.91852241623)
+	- altitude: 420.89908479735 km above ground level
+	- velocity: 27601.179786792 km/h
+	- region directly over: Alaska, United States
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (55.40171740181245, 183.50433839443608)
+	- velocity: 30577.841046882073 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): America and the Sea of Serenity!
+
+======================================================================
+Timestamp: Thursday, 18 January 2024 21:20:47
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-50.692694133087, -156.65963783423)
+	- altitude: 438.64140593718 km above ground level
+	- velocity: 27527.723646421 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (-47.60023390926409, -156.5553977089089)
+	- velocity: 28049.56252336659 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Northern Lights from the Stratosphere!
+

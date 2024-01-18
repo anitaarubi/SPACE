@@ -1,0 +1,69 @@
+======================================================================
+14 January 2024: Astronomical Picture of the Day
+
+{
+    "copyright": "\nJingyi Zhang & Wang Zheng\n",
+    "date": "2024-01-14",
+    "explanation": "Have you ever seen a dragon in the sky? Although real flying dragons don't exist, a huge dragon-shaped aurora developed in the sky over Iceland in 2019.  The aurora was caused by a hole in the Sun's corona that expelled charged particles into a solar wind that followed a changing interplanetary magnetic field to Earth's magnetosphere.  As some of those particles then struck Earth's atmosphere, they excited atoms which subsequently emitted light: aurora. This iconic display was so enthralling that the photographer's mother ran out to see it and was captured in the foreground.  Our active Sun continues to show an unusually high number of prominences, filaments, sunspots, and large active regions as solar maximum approaches in 2025.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_2241.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dragon Aurora over Iceland",
+    "url": "https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_960.jpg"
+}
+
+======================================================================
+15 January 2024: Astronomical Picture of the Day
+
+{
+    "date": "2024-01-15",
+    "explanation": "Sometimes, it's the stars that are the hardest to see that are the most interesting. IC 348 is a young star cluster that illuminates surrounding filamentary dust.  The stringy and winding dust appears pink in this recently released infrared image from the Webb Space Telescope. In visible light, this dust reflects mostly blue light, giving the surrounding material the familiar blue hue of a reflection nebula.  Besides bright stars, several cool objects have been located in IC 348, visible because they glow brighter in infrared light.  These objects are hypothesized to be low mass brown dwarfs.  Evidence for this includes the detection of an unidentified atmospheric chemical, likely a hydrocarbon, seen previously in the atmosphere of Saturn. These objects appear to have masses slightly greater than known planets, only a few times greater than Jupiter.  Together, these indicate that this young star cluster contains something noteworthy -- young planet-mass brown dwarfs that float free, not orbiting any other star.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2401/IC348_webb_3788.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Star Cluster IC 348 from Webb",
+    "url": "https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg"
+}
+
+======================================================================
+16 January 2024: Astronomical Picture of the Day
+
+{
+    "copyright": "\nMichele Guzzini\n",
+    "date": "2024-01-16",
+    "explanation": "Do you recognize this constellation?  Although it is one of the most recognizable star groupings on the sky, this is a more full Orion than you can see -- an Orion only revealed with long exposure digital camera imaging and post- processing.  Here the cool red giant Betelgeuse takes on a strong orange tint as the brightest star on the upper left.  Orion's hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse on the lower right, and Bellatrix at the upper right. Lined up in Orion's belt are three stars all about 1,500 light-years away, born from the constellation's well-studied interstellar clouds. Just below Orion's belt is a bright but fuzzy patch that might also look familiar -- the stellar nursery known as Orion's Nebula.  Finally, just barely visible to the unaided eye but quite striking here is Barnard's Loop -- a huge gaseous emission nebula surrounding Orion's Belt and Nebula discovered over 100 years ago by the pioneering Orion photographer E. E. Barnard.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2401/OrionMcc_Guzzini_1366.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Orion You Can Almost See",
+    "url": "https://apod.nasa.gov/apod/image/2401/OrionMcc_Guzzini_960.jpg"
+}
+
+======================================================================
+17 January 2024: Astronomical Picture of the Day
+
+{
+    "copyright": "Gene Cernan",
+    "date": "2024-01-17",
+    "explanation": "Get out your red/blue glasses and check out this stereo view of another world. The scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17's landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif's peak. Beyond the mountains, toward the lunar limb, lies the Moon's Mare Serenitatis. Four astronauts will venture around the Moon and back again on the Artemis II mission, scheduled for launch no earlier than September 2025.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "America and the Sea of Serenity",
+    "url": "https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne900.jpg"
+}
+
+======================================================================
+18 January 2024: Astronomical Picture of the Day
+
+{
+    "copyright": "Ralf Rohner",
+    "date": "2024-01-18",
+    "explanation": "Northern lights shine in this night skyview from planet Earth's stratosphere, captured on January 15. The single, 5 second exposure was made with a hand-held camera on board an aircraft above Winnipeg, Canada. During the exposure, terrestrial lights below leave colorful trails along the direction of motion of the speeding aircraft. Above the more distant horizon, energetic particles accelerated along Earth's magnetic field at the planet's polar regions excite atomic oxygen to create the shimmering display of Aurora Borealis. The aurora's characteristic greenish hue is generated at altitudes of 100-300 kilometers and red at even higher altitudes and lower atmospheric densities. The luminous glow of faint stars along the plane of our Milky Way galaxy arcs through the night, while the Andromeda galaxy extends this northern skyview to extragalactic space. A diffuse hint of Andromeda, the closest large spiral to the Milky Way, can just be seen to the upper left.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2401/MagneticStormRohner.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Northern Lights from the Stratosphere",
+    "url": "https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg"
+}
+
