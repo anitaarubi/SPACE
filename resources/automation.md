@@ -254,3 +254,56 @@ Keep your eyes on the stars, fellow space travelers! 🌌🚀
 SEE YOU IN WEEK 3.
 
 
+
+# Week 3; 19TH Jan.:Storage Location Determination
+## Adaptive Storage Organization
+One of the key features introduced in Week 3 is the adaptive storage location determination mechanism. This functionality aims to dynamically organize data and image files based on the current day number. The purpose is to maintain a well-structured storage hierarchy, enhancing the script's scalability and organization.
+
+## Understanding the Need
+As the automation process progresses, data and image files accumulate. To prevent these files from becoming overwhelming and to facilitate easy retrieval, the script intelligently calculates an appropriate storage location for these files. This determination is driven by the current day number, providing a systematic way to categorize files over time.
+
+## Initial Setup
+The storage location determination process begins with the calculation of an index. This index represents the week in which the current day falls. The idea is to group files into weekly folders, ensuring a manageable structure.
+
+```
+index = 1
+while (curr_day_num > 7):
+    index += 1
+    curr_day_num -= 7
+```
+
+Here, a while loop is employed to iterate through the weeks. The index variable increments each time a full week has passed, and the curr_day_num (current day number) decreases accordingly. This loop effectively calculates the week index for the current day.
+
+## Storage Directory Creation
+Once the index is determined, the script moves on to create the storage directory. The directory is named in a structured manner to reflect the week number.
+
+```
+save_dir = "output/week_" + str(index)
+try:
+    os.mkdir(save_dir)
+except:
+    pass
+finally:
+    os.chdir(save_dir)
+```
+
+Here, the os.mkdir() function attempts to create the directory. If the directory already exists, the script gracefully moves on without raising an error. Finally, the script changes its working directory to the newly created (or existing) directory.
+
+## Why Adaptive Storage?
+The adaptive storage organization ensures that as the automation process continues over time, files are not lumped into a single directory but are instead organized into weekly folders. This structure makes it easier for users to navigate and manage the growing volume of data and image files.
+
+### Integration with Main Orchestrator (go() Function)
+The storage location determination process seamlessly integrates into the main orchestrator, the go() function. After fetching the current day number from the config.txt file, the script utilizes this information to determine the appropriate storage location before executing subsequent tasks.
+
+## Conclusion of Storage Location Determination
+Week 3 introduces a thoughtful approach to storage organization, addressing the need for adaptive categorization of data and image files. By dynamically determining storage locations based on the current day number, the script ensures a well-organized and scalable structure for long-term use. This adaptive storage mechanism aligns with best practices for data management, showcasing the script's commitment to efficiency and user-friendly file organization.
+
+SEE YOU NEXT IN THE FINAL WEEK, SPACE EXPLORERS! 🚀🌌
+
+
+
+
+
+
+
+
