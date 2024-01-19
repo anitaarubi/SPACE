@@ -298,7 +298,7 @@ The storage location determination process seamlessly integrates into the main o
 ## Conclusion of Storage Location Determination
 Week 3 introduces a thoughtful approach to storage organization, addressing the need for adaptive categorization of data and image files. By dynamically determining storage locations based on the current day number, the script ensures a well-organized and scalable structure for long-term use. This adaptive storage mechanism aligns with best practices for data management, showcasing the script's commitment to efficiency and user-friendly file organization.
 
-SEE YOU NEXT IN THE FINAL WEEK, SPACE EXPLORERS! 🚀🌌
+SEE YOU IN THE FINAL WEEK, SPACE EXPLORERS! 🚀🌌
 
 
 
