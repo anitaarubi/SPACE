@@ -157,14 +157,15 @@ Overall, the code is a script for automating the retrieval and processing of inf
 
 
 
-# Week 1; 5th Jan.: Unveiling the Wonders of Space Automation
-Welcome back, cosmic explorers!
-This week, our Python-powered space automation journey kicks off with an exploration of the vast universe. Buckle up as we delve into the intricacies of data fetching, processing, and the magic of the cosmos.
+# Week 1; 5TH Jan.: Unveiling the Wonders of Space Automation
+## Introduction and Libraries Import
+The script commences with an essential section where it imports various libraries. This action is pivotal for the script's functionality, as it brings in powerful tools such as datetime for handling time-related operations, random for generating random data, json for working with JSON data, os for interacting with the operating system, and requests for making HTTP requests. Furthermore, it imports specific modules from the geopy library, enhancing its geocoding capabilities.
 
-**Setting the Stage: config.txt and Previous Task Insights**
-Our cosmic adventure begins with the backbone of our operation - the config.txt file. This essential file is our compass, guiding us through the vastness of space. It keeps a meticulous record of our past tasks, ensuring a smooth continuation of our interstellar exploration.
+## Configuration File and Preliminary Text
+The script, being a robust automation tool, establishes a structured foundation with the pre_text_for_config() function. This function generates a preliminary text intended for the config.txt file. The config.txt file plays a crucial role in tracking the automation processes. The explanatory comments within this function underscore its significance. The file not only serves as a guide for the automation program but also maintains a count of completed tasks, a representation of which is done through the innovative use of a "pipe-dash" character. This detailed explanation within the code showcases a meticulous approach to documentation and transparency in code design.
 
-
+## Config File Creation
+Continuing with the theme of configuration, the script meticulously checks for the existence of the config.txt file through the create_config_file_if_not_exist() function.
 ```
 # Create or Check Config File
 create_config_file_if_not_exist()
@@ -173,75 +174,83 @@ create_config_file_if_not_exist()
 from_config = get_config_status()
 ```
 
-## ISS Insights: Beyond Earth's Atmosphere
-Our first destination is the International Space Station (ISS), a microgravity laboratory orbiting Earth. Let's harness Python to fetch key details, including the number of astronauts on board and the ISS's current location.
+This function not only ensures the file's presence but also initializes it with default values using the preliminary text generated earlier. This level of attention to detail reflects good coding practices, ensuring that the automation program can seamlessly access and update the necessary configuration information.
 
+## Current Time Retrieval
+A subtle yet crucial function, get_current_time(), is introduced to fetch the current timestamp.
+```
+# get the current time
+def get_current_time():
+``` 
+This timestamp, formatted as a string, includes information about the day, month, year, and precise time, providing valuable insights into when specific operations within the script occurred. The thoughtful inclusion of this function highlights the developer's commitment to logging and tracking temporal aspects of the automation process.
 
+## Config Status Retrieval
+The script further solidifies its configuration management capabilities with the get_config_status() function. This function reads and extracts vital information from the config.txt file. It intelligently interprets the "pipe-dash" characters, indicating completed tasks, and retrieves the count of automation runs, the day of the last successful run, and the date of the last operation. Such meticulous tracking and retrieval mechanisms lay the groundwork for comprehensive automation process management.
+
+## ISS Information Retrieval
+The script takes a turn towards space exploration, introducing functions like people_on_ISS() and info_about_ISS(). These functions leverage external APIs to fetch real-time information about the International Space Station (ISS).
 ```
 # Fetch ISS and Other Info
 pple_on_iss = people_on_ISS()
 iss_info = info_about_ISS()
-deb_info = info_about_debris(iss_info)
-apod_info = get_APOD()
-```
+``` 
 
-## From Data to Narrative: Crafting a Cosmic Tale
-Now armed with celestial data, it's time to weave it into a cosmic narrative. The info_to_text function converts raw data into a captivating story, making our space exploration journey not only informative but also enjoyable.
+The former retrieves the number of people currently on the ISS, while the latter provides detailed information about the ISS, including its latitude, longitude, altitude, velocity, and the country directly beneath it. This integration of external APIs demonstrates the script's capability to interact with diverse data sources, enriching its functionality.
 
+## Debris Information Retrieval
+The narrative unfolds with the introduction of the info_about_debris() function, simulating the retrieval of information about objects near the ISS. 
+
+`deb_info = info_about_debris(iss_info)`
+
+The script randomly generates data for an object's type, latitude, longitude, and velocity. It then assesses whether the object is in proximity to the ISS and determines a corresponding action. This simulated scenario adds a layer of complexity to the script, showcasing its versatility in handling various situations that may arise during space exploration.
+
+### Week 1 Summary
+Week 1 lays a solid foundation, covering the script's initialization, configuration file management, and the retrieval of information about the ISS and nearby debris. The meticulous attention to configuration details, coupled with the integration of external APIs, positions the script as a robust and extensible automation tool for space-related data.
+
+Stay curious, space enthusiasts! 🚀🌌
+
+SEE YOU NEXT WEEK.
+
+
+
+
+# Week 2; 12TH Jan.:Celestial Chronicles - Unveiling the Wonders Continues
+## APOD Information Retrieval
+The second week of exploration begins with the introduction of the get_APOD() function. 
+
+`apod_info = get_APOD()`
+
+This function, using NASA's API, fetches information about the Astronomical Picture of the Day (APOD). The inclusion of this function broadens the script's scope, transforming it from a focused ISS data retrieval tool to a more holistic space exploration utility.
+
+## Text Generation
+With the acquired information about the ISS, debris, and APOD, the script enters the realm of text generation through the info_to_text() function. 
 ```
 # Convert Info to Text
 text_string = info_to_text(pple_on_iss, iss_info, deb_info, apod_info)
+```
 
+This function consolidates the extracted information into a structured and human-readable text format. The resulting text string serves as a detailed report, providing insights into the current state of the ISS, nearby objects, and the captivating APOD. The inclusion of such text generation capabilities enhances the script's communicative aspect, making it more accessible to users.
+
+## Data and Image File Update
+The narrative evolves as the script takes a proactive approach to data and file management. Functions like update_data_file(), update_image_json_file(), and save_apod_to_file() come into play. 
+```
 # Update Data File
 update_data_file(text_string)
-```
-As our data file evolves, so does our understanding of the cosmos. Join us next week as we continue to expand our celestial database, enriching our knowledge of space one byte at a time.
 
-Stay curious, space enthusiasts! 🚀🌌
- 
- SEE YOU NEXT WEEK.
-
-
-
-# Week 2 - 12th Jan.: Celestial Chronicles - Unveiling the Wonders Continues
-Greetings, cosmic voyagers! As our Python-powered spacecraft hurtles through the cosmic expanse, we find ourselves in the embrace of Week 2. This week promises an even deeper dive into the celestial wonders that adorn our universe. Buckle up, fellow space enthusiasts, as we embark on another week of interstellar exploration.
-
-**The Art of Updating: Enhancing our Cosmic Gallery**
-Our cosmic journey is not just about data; it's an art form. This week, our attention turns to the images_json.txt file, our cosmic art gallery. Here, we meticulously curate the latest wonders from the Astronomy Picture of the Day (APOD).
-
-```
 # Update Image Information File
 update_image_json_file(apod_info)
-```
 
-**The Symphony of Cosmic Imagery**
-The images we collect aren't mere pixels; they're symphonies composed by the cosmos. Each APOD image captures the visual poetry of our universe, from the intricate dance of nebulae to the distant melodies of galaxies.
-
-This week is a celebration of the aesthetics of space photography. The vibrant hues of celestial bodies, the play of light and shadow in cosmic landscapes – every image is a masterpiece, inviting us to appreciate the artistry inherent in the vastness of space.
-
-## APOD Unveiled: Downloading the Cosmic Canvas
-The Astronomy Picture of the Day isn't just a visual treat; it's a cosmic canvas that tells stories of our universe. In Week 2, we download and preserve the latest APOD image, ensuring that each pixel is a brushstroke in the grand artwork of the cosmos.
-
-```
 # Save Image File
 filename = save_apod_to_file(apod_info)
 ```
 
-**A Visual Journey Through Space**
-Our growing collection of cosmic images is more than a gallery; it's a visual journey through the tapestry of space and time. From the surreal beauty of distant galaxies to the kaleidoscopic swirls of interstellar clouds, each image adds a new chapter to our cosmic narrative.
+These functions ensure that the gathered information is not only presented in a human-readable format but also archived systematically. The script writes to data files, updates records of automation successes, and even saves the APOD image to a storage location, adding a layer of persistence to its operations.
 
-**Building Bridges to the Stars: A Digital Archive Expands**
-Our digital archive is not just a storage space; it's a bridge that connects us to the stars. Each saved image becomes a portal, allowing us to traverse the vastness of space with just a click.
+### Week 2 Summary
+Week 2 unveils the script's expansion into APOD data retrieval, text generation, and systematic file management. The introduction of the main orchestrator, go(), highlights the script's integration of diverse functionalities, making it a cohesive and dynamic space exploration tool.
 
-As we wrap up Week 2, our cosmic gallery stands testament to the mesmerizing beauty of the universe. Join us next week as we continue to uncover the mysteries of the cosmos, adding new pages to our digital cosmic diary.
+Keep your eyes on the stars, fellow space travelers! 🌌🚀
 
-Keep gazing at the stars, intrepid space travelers! 🚀🌌
-
-See you next week, as our journey continues....
-
-
-
-
-
+SEE YOU IN WEEK 3.
 
 

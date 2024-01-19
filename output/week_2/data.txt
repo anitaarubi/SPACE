@@ -187,3 +187,24 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Northern Lights from the Stratosphere!
 
+======================================================================
+Timestamp: Friday, 19 January 2024 12:27:42
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-12.53717939938, -123.03559050621)
+	- altitude: 420.75302719939 km above ground level
+	- velocity: 27573.879727355 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (-10.121267810567804, -121.97387143660993)
+	- velocity: 29567.46291257846 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Jupiter over 2 Hours and 30 Minutes!
+
