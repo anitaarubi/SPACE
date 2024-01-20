@@ -1,0 +1,21 @@
+======================================================================
+Timestamp: Saturday, 20 January 2024 17:17:23
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (43.417323552685, 15.460073237011)
+	- altitude: 419.70588152582 km above ground level
+	- velocity: 27598.293984503 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (43.639392654516854, 19.945553891005247)
+	- velocity: 31693.40168150901 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Falcon Heavy Boostback Burn!
+

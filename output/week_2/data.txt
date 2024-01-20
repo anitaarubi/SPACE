@@ -208,3 +208,24 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Jupiter over 2 Hours and 30 Minutes!
 
+======================================================================
+Timestamp: Saturday, 20 January 2024 12:21:49
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-3.9375627902783, 39.337969236038)
+	- altitude: 420.38038308759 km above ground level
+	- velocity: 27573.540822925 km/h
+	- region directly over: Kwale, Kenya
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (0.33967669651353605, 44.32103475751282)
+	- velocity: 30604.39971855343 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): Falcon Heavy Boostback Burn!
+
