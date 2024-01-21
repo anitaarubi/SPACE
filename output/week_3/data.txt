@@ -19,3 +19,24 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Falcon Heavy Boostback Burn!
 
+======================================================================
+Timestamp: Sunday, 21 January 2024 16:06:04
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-25.488378709459, -42.511905130861)
+	- altitude: 427.73558099023 km above ground level
+	- velocity: 27551.769950579 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (-21.061357725777622, -40.5210899961382)
+	- velocity: 31042.933813856434 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): The Upper Michigan Blizzard of 1938!
+
