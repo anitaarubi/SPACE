@@ -11,10 +11,10 @@ There's a floating garbage dump orbiting Earth, and it's getting fuller every ye
 # INTRODUCTION
 Space debris — known colloquially as space junk — is the name that scientists give to the thousands of pieces of broken satellites and spacecraft that clog Earth's orbit. Space junk can be as small as a paint fleck or as large as an abandoned rocket launch vehicle; no matter the size, orbital debris pose a significant threat to the astronauts and spacecraft that work in Earth's orbit, according to NASA.
 
-The amount of space junk in orbit increases hand-in-hand with the growth of the space industry on Earth. On March 10, a group of international researchers writing in the journal Science raised the alarm on the growing problem of space junk, calling for a legally-binding treaty to "help protect Earth's orbit" before it becomes irreparably polluted with debris. 
+The amount of space junk in orbit increases in accord with the growth of the space industry on Earth. On March 10, a group of international researchers writing in the journal Science raised the alarm on the growing problem of space junk, calling for a legally-binding treaty to "help protect Earth's orbit" before it becomes irreparably polluted with debris. 
 
 ### What is space junk?
-Space junk refers to any human-made debris left in orbit around Earth. This includes fully intact satellites that have run out of power and been left in orbit after the end of their missions, as well as broken chunks of machinery created when larger objects collide. Even tiny chips of paint that have been ripped off of rockets count as space junk.
+Space junk refers to any human-made debris left in orbit around Earth. This includes fully intact satellites that ran out of power and has been left in orbit after the end of their missions, as well as broken chunks of machinery created when larger objects collide. Even tiny chips of paint that have been ripped off of rockets count as space junk.
 
 Space debris around the Earth
 
