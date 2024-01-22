@@ -40,3 +40,24 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): The Upper Michigan Blizzard of 1938!
 
+======================================================================
+Timestamp: Monday, 22 January 2024 12:26:00
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (12.977233388036, 39.948985378342)
+	- altitude: 418.03397805152 km above ground level
+	- velocity: 27584.512826819 km/h
+	- region directly over: አፋር ክልል / Afar, ኢትዮጵያ
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (13.201226149728054, 40.317851387804716)
+	- velocity: 32128.93827031856 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Shadows of Mountain and Moon!
+
