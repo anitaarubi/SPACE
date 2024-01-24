@@ -61,3 +61,45 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Shadows of Mountain and Moon!
 
+======================================================================
+Timestamp: Tuesday, 23 January 2024 13:07:54
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (1.4393970283033, 14.049316765641)
+	- altitude: 419.50304205411 km above ground level
+	- velocity: 27575.88188831 km/h
+	- region directly over: Sangha, Congo
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (6.387229420554657, 15.816773153031216)
+	- velocity: 27851.008378424223 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Deep Nebulas: From Seagull to California!
+
+======================================================================
+Timestamp: Wednesday, 24 January 2024 22:40:00
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-44.572474723096, 92.437645445529)
+	- altitude: 433.35783744826 km above ground level
+	- velocity: 27542.468918344 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (-39.615127912682084, 92.45808463481683)
+	- velocity: 31837.64476234846 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Earth and Moon from Beyond!
+
