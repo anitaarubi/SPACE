@@ -103,3 +103,24 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Earth and Moon from Beyond!
 
+======================================================================
+Timestamp: Thursday, 25 January 2024 12:35:12
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-43.791510345184, -121.67247789562)
+	- altitude: 432.74703992101 km above ground level
+	- velocity: 27544.116709837 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-42.16988568712338, -117.12137700795009)
+	- velocity: 31086.150770318895 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Jyväskylä in the Sky!
+
