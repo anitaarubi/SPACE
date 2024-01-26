@@ -124,3 +124,45 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Jyväskylä in the Sky!
 
+======================================================================
+Timestamp: Friday, 26 January 2024 13:11:09
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-19.077608078158, -169.93214715103)
+	- altitude: 420.81905390671 km above ground level
+	- velocity: 27574.6484201 km/h
+	- region directly over: , Niuē
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-17.850388897376895, -165.00566668356524)
+	- velocity: 31246.083774803014 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Epsilon Tauri: Star with Planet!
+
+======================================================================
+Timestamp: Friday, 26 January 2024 13:12:37
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-23.387232677382, -166.20451558526)
+	- altitude: 422.58704730292 km above ground level
+	- velocity: 27569.867201709 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (-21.79546042705064, -161.38565274366425)
+	- velocity: 27841.00117663832 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): Epsilon Tauri: Star with Planet!
+
