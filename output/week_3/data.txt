@@ -166,3 +166,24 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): Epsilon Tauri: Star with Planet!
 
+======================================================================
+Timestamp: Sunday, 28 January 2024 15:22:02
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-3.0541727140127, -53.261097200521)
+	- altitude: 421.55860563809 km above ground level
+	- velocity: 27570.55316325 km/h
+	- region directly over: Pará, Brasil
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (0.6251832486392912, -52.00225000963897)
+	- velocity: 29450.47822626787 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): Pluto in True Color!
+

@@ -278,6 +278,63 @@ Catch you on the flip side of the code galaxy!👋🚀
 
 
 
+# HOW TO RUN THE AUTOMATION
+## To run the provided automation script, follow these steps:
+
+## Prerequisites:
+ - Python Installation:
+Ensure that Python is installed on your system. During installation, make sure to check the option to add Python to your system's PATH.
+
+- Dependencies:
+Install the required Python packages(External libaries)by running the following command in your terminal or command prompt:
+
+`pip install geopy requests`
+
+## Steps to Run the Automation Script:
+- Download the Script:
+Download the provided Python script to your computer. Save it with an appropriate filename, e.g., automation.py.
+Open a Terminal or Command Prompt:
+
+ - Open a terminal on Linux/Mac or command prompt on Windows.
+Navigate to the Script's Directory:
+
+- Use the cd command to navigate to the directory where you saved the script.
+
+Bash
+```
+cd path/to/script/directory
+Run the Script:
+```
+
+Execute the script by running the following command:
+
+`python automation.py`
+
+If you're using Python 3, use the following command:
+
+`python3 space_automation.py`
+
+## Review the Output:
+
+The script will start executing the automation tasks, fetching information about the International Space Station (ISS), nearby debris, and the Astronomical Picture of the Day (APOD).
+It will generate a human-readable report and update data and image files.
+Check Output Files:
+
+The script will create output files, including data.txt and images_json.txt, in the specified storage location (e.g., output/week_X). Additionally, the script will update the config.txt file.
+
+Review the Results:
+Open the generated data.txt file to review the synthesized information about the ISS, debris, and APOD.
+Check the images_json.txt file for information about the APOD image.
+Explore Storage Location:
+
+Navigate to the storage location specified in the script (e.g., output/week_X). Check for saved image files and other relevant data.
+Important Notes:
+Ensure an internet connection is available as the script fetches real-time data from external APIs.
+Any errors or exceptions during script execution will be displayed in the terminal/command prompt.
+
+By following these steps, you should be able to successfully run the provided automation script and explore the generated results and files.
+
+
 
 
 
