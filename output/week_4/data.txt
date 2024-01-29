@@ -1,0 +1,21 @@
+======================================================================
+Timestamp: Monday, 29 January 2024 23:42:52
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-31.379048905032, 147.24869027018)
+	- altitude: 429.55026381174 km above ground level
+	- velocity: 27550.582342118 km/h
+	- region directly over: New South Wales, Australia
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (-30.61293848396643, 149.9507207549363)
+	- velocity: 32295.27629985175 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): The Pleiades: Seven Dusty Sisters!
+
