@@ -19,3 +19,24 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): The Pleiades: Seven Dusty Sisters!
 
+======================================================================
+Timestamp: Tuesday, 30 January 2024 23:01:01
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-17.393343338729, 166.36297245051)
+	- altitude: 424.67156037653 km above ground level
+	- velocity: 27561.620428893 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (-13.62114574653333, 168.01171091707076)
+	- velocity: 29471.341755520843 km/h
+	- object in proximity: True
+	- action: Steer vertically!
+
+Astronomical Picture of the Day (APOD): SLIM Lands on the Moon!
+
