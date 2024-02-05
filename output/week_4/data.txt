@@ -40,3 +40,87 @@ the ISS, containing 7 persons, has the following information:
 
 Astronomical Picture of the Day (APOD): SLIM Lands on the Moon!
 
+======================================================================
+Timestamp: Wednesday, 31 January 2024 17:32:11
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (-26.959829271441, -125.33917510469)
+	- altitude: 427.19290923069 km above ground level
+	- velocity: 27556.310402684 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (-23.100613179072877, -121.12419955821281)
+	- velocity: 28969.06447095602 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): Camera Orion Rising!
+
+======================================================================
+Timestamp: Sunday, 04 February 2024 21:12:35
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (49.138583216529, -66.960655077565)
+	- altitude: 423.62760964849 km above ground level
+	- velocity: 27587.893769085 km/h
+	- region directly over: Québec, Canada
+
+...and the nearest object has the following information:
+	- type: Meteor
+	- latitude, longitude: (49.592543019851, -64.64613206333341)
+	- velocity: 28758.610458195722 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): The Cone Nebula from Hubble!
+
+======================================================================
+Timestamp: Monday, 05 February 2024 21:33:18
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (6.4428721921977, 172.4004624825)
+	- altitude: 419.72324776893 km above ground level
+	- velocity: 27577.1666193 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Debris
+	- latitude, longitude: (8.509393661718136, 174.3326485517337)
+	- velocity: 31435.02133634756 km/h
+	- object in proximity: True
+	- action: Steer horizontally!
+
+Astronomical Picture of the Day (APOD): In the Core of the Carina Nebula!
+
+======================================================================
+Timestamp: Monday, 05 February 2024 21:33:25
+
+
+Hello,
+
+the ISS, containing 7 persons, has the following information:
+	- latitude, longitude: (6.7980691529981, 172.65532044352)
+	- altitude: 419.70521265337 km above ground level
+	- velocity: 27577.306773876 km/h
+	- region directly over: Not a country.
+
+...and the nearest object has the following information:
+	- type: Satellite
+	- latitude, longitude: (9.529413656730991, 175.9358248181428)
+	- velocity: 27691.633222983266 km/h
+	- object in proximity: False
+	- action: Do nothing.
+
+Astronomical Picture of the Day (APOD): In the Core of the Carina Nebula!
+

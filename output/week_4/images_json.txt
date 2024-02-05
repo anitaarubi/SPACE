@@ -26,3 +26,44 @@
     "url": "https://apod.nasa.gov/apod/image/2401/Slim_jaxa_960.jpg"
 }
 
+======================================================================
+31 January 2024: Astronomical Picture of the Day
+
+{
+    "copyright": "\nMarcin \u015alipko\n",
+    "date": "2024-01-31",
+    "explanation": "What does Orion rising look like to a camera? During this time of the year, the famous constellation is visible to the southeast just after sunset. From most Earthly locations, Orion's familiar star pattern, highlighted by the three-stars-in-a-row belt stars, rises sideways. An entire section of the night sky that includes Orion was photographed rising above \u015anie\u017cka, a mountain on the border between Poland and the Czech Republic.  The long duration exposure sequence brings up many faint features including the Orion and Flame Nebulas, both encompassed by the curving Barnard's Loop. The featured wide-angle camera composite also captured night sky icons including the blue Pleiades star cluster at the image top and the red Rosette Nebula to the left of Orion. Famous stars in the frame include Sirius, Betelgeuse, Rigel and Aldebaran. Orion will appear successively higher in the sky at sunset during the coming months.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_2048.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Camera Orion Rising",
+    "url": "https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_960.jpg"
+}
+
+======================================================================
+04 February 2024: Astronomical Picture of the Day
+
+{
+    "date": "2024-02-04",
+    "explanation": "Stars are forming in the gigantic dust pillar called the Cone Nebula. Cones, pillars, and majestic flowing shapes abound in stellar nurseries where natal clouds of gas and dust are buffeted by energetic winds from newborn stars. The Cone Nebula, a well-known example, lies within the bright galactic star-forming region NGC 2264. The Cone was captured in unprecedented detail in this close-up composite of several observations from the Earth-orbiting Hubble Space Telescope. While the Cone Nebula, about 2,500 light-years away in Monoceros, is around 7 light-years long, the region pictured here surrounding the cone's blunted head is a mere 2.5 light-years across. In our neck of the galaxy that distance is just over half way from our Sun to its nearest stellar neighbors in the Alpha Centauri star system. The massive star NGC 2264 IRS, seen by Hubble's infrared camera in 1997, is the likely source of the wind sculpting the Cone Nebula and lies off the top of the image. The Cone Nebula's reddish veil is produced by dust and glowing hydrogen gas.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2402/cone_hubbleschmidt_4048.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Cone Nebula from Hubble",
+    "url": "https://apod.nasa.gov/apod/image/2402/cone_hubbleschmidt_960.jpg"
+}
+
+======================================================================
+05 February 2024: Astronomical Picture of the Day
+
+{
+    "copyright": "\nCarlos Taylor\n",
+    "date": "2024-02-05",
+    "explanation": "What's happening in the core of the Carina Nebula?  Stars are forming, dying, and leaving an impressive tapestry of dark dusty filaments.  The entire Carina Nebula, cataloged as NGC 3372, spans over 300 light years and lies about 8,500 light-years away in the constellation of Carina. The nebula is composed predominantly of hydrogen gas, which emits the pervasive red and orange glows seen mostly in the center of this highly detailed featured image.  The blue glow around the edges is created primarily by a trace amount of glowing oxygen. Young and massive stars located in the nebula's center expel dust when they explode in supernovas.  Eta Carinae, the most energetic star in the nebula's center, was one of the brightest stars in the sky in the 1830s, but then faded dramatically.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
+    "hdurl": "https://apod.nasa.gov/apod/image/2402/Carina_Taylor_9714.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In the Core of the Carina Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2402/Carina_Taylor_960.jpg"
+}
+
