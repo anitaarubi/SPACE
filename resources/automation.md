@@ -303,7 +303,7 @@ The final script execution in Week 4 encapsulates the essence of the entire expl
 
 
 ## PROBLEMS ENCOUNTERED WHILE CREATING THE AUTOMATION
-While creating the provided automation code, I might encounter various challenges. Here are some the problems and suggestions on how to address them:
+While creating the provided automation code, I encountered various challenges. Here are some the problems and suggestions on how to address them:
 
 ### 1. API Limitations:
 **Problem:** Some APIs have usage limits, and exceeding them can lead to temporary or permanent denial of access.
